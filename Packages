@@ -1,12 +1,12 @@
 Package: thinchef
-Version: 1.0.6
+Version: 1.0.7
 Architecture: arm64
 Maintainer: ThinSoft
-Filename: ./thinchef_1.0.6_arm64.deb
-Size: 74318960
-MD5sum: 24138cbd294ad67032e192b0703be078
-SHA1: 0fddf8b8a24132b08f5a774da85e050f366619fc
-SHA256: 505b42d9e62889a438462f71dcb42e0c9491393857474009f1e251522285e0eb
+Filename: ./thinchef_1.0.7_arm64.deb
+Size: 74317180
+MD5sum: 5c961732fa5a929f2ae0504cd84364a3
+SHA1: 0fb9f6b0e69885636d4fcf3a5a1697666c7b2050
+SHA256: 795be4877151cff14ead510a6ce651a62f7df42495fc68f2e470d6ec4e2c787b
 Section: custom
 Priority: optional
 Description: Sistema ThinChef (Server + KDS + Totem)
